@@ -110,37 +110,6 @@ Le rapport PDF complet du projet est disponible ici :
 
 ---
 
-# 🚀 Installation
-
-### 1️⃣ Cloner le projet
-
-```bash
-git clone https://github.com/votre-compte/restaurant-ihec-manager.git
-```
-
-### 2️⃣ Ouvrir le projet
-
-Ouvrir la solution avec :
-- Visual Studio 2022
-
-### 3️⃣ Configurer la Base de Données
-
-- Créer la base SQL Server
-- Importer les tables
-- Modifier la chaîne de connexion dans :
-
-```csharp
-BD.cs
-```
-
-### 4️⃣ Lancer l’Application
-
-```bash
-F5 → Start Debugging
-```
-
----
-
 # 👩‍💻 Réalisé Par
 
 **Hiba Kourda**  
