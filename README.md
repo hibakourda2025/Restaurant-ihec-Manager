@@ -122,13 +122,14 @@ L’application suit une architecture multicouche :
 
 ---
 
-### 🔐 Se Connecter — Authentification par CIN et mot de passe
-![Se Connecter](images/se_connecter.png)
+### 📧 Confirmation d'Identité — Vérification par code envoyé par mail
+![Code de Vérification](images/code_verification.png)
 
 ---
 
-### 📧 Confirmation d'Identité — Vérification par code envoyé par mail
-![Code de Vérification](images/code_verification.png)
+
+### 🔐 Se Connecter — Authentification par CIN et mot de passe
+![Se Connecter](images/se_connecter.png)
 
 ---
 
