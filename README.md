@@ -101,7 +101,105 @@ L’application suit une architecture multicouche :
 | `EmailService.cs` | Service d’e-mails |
 
 ---
+## 🖼️ Aperçu des Pages
 
+---
+
+### 🏠 Page d'Accueil — Portail principal avec accès Étudiant, Admin et Chef
+![Page d'Accueil](images/accueil.png)
+
+---
+
+## 👨‍🎓 Espace Étudiant
+
+### 🏡 Accueil Étudiant — Tableau de bord avec navigation vers toutes les fonctionnalités
+![Espace Étudiant](images/espace_etudiant.png)
+
+---
+
+### 📝 Créer un Compte — Inscription avec informations personnelles et filière
+![Créer un Compte](images/creer_compte.png)
+
+---
+
+### 🔐 Se Connecter — Authentification par CIN et mot de passe
+![Se Connecter](images/se_connecter.png)
+
+---
+
+### 📧 Confirmation d'Identité — Vérification par code envoyé par mail
+![Code de Vérification](images/code_verification.png)
+
+---
+
+### 👤 Mon Compte — Consultation et modification du profil étudiant
+![Mon Compte Étudiant](images/mon_compte.png)
+
+---
+
+### 🍽️ Menu de la Semaine — Consultation des menus journaliers (Menu 1 & Menu 2)
+![Menu de la Semaine](images/menu.png)
+
+---
+
+### 📅 Réserver un Repas — Sélection de la date et du menu souhaité
+![Réservation](images/reservation.png)
+
+---
+
+### 🕓 Historique des Réservations — Suivi des réservations passées et en cours
+![Historique Réservation](images/historique_reservation.png)
+
+---
+
+### ❌ Annuler une Réservation — Annulation via le code de réservation
+![Annuler Réservation](images/annuler_reservation.png)
+
+---
+
+### ⭐ Avis & Réclamations — Évaluation du repas par critères et commentaire libre
+![Avis Étudiant](images/avis.png)
+
+---
+
+## 🛠️ Espace Administrateur
+
+### 👤 Mon Compte Admin — Gestion du profil et des informations de l'administrateur
+![Compte Admin](images/compte_admin.png)
+
+---
+
+### 📊 Tableau de Bord — KPIs, consommation des menus et répartition par filière
+![Dashboard Admin](images/dashboard.png)
+
+---
+
+### 🔄 Mise à Jour Réservation — Modification du statut d'une réservation par code
+![Mise à Jour Réservation](images/maj_reservation.png)
+
+---
+
+### 🗂️ Gestion des Données — Liste des employés et étudiants avec filtres de recherche
+![Gestion des Données](images/gestion.png)
+
+---
+
+### 💬 Voir les Avis Étudiants — Analyse des évaluations et moyennes par critère
+![Voir Avis](images/voir_avis.png)
+
+---
+
+## 👨‍🍳 Espace Chef
+
+### 👤 Mon Compte Chef — Consultation et modification du profil du chef
+![Compte Chef](images/compte_chef.png)
+
+---
+
+### 📋 Gérer les Menus — Saisie des plats, prix et quantités pour chaque jour de la semaine
+![Gérer les Menus](images/gerer_menu.png)
+
+---
 # 📄 Rapport du Projet
 
 Le rapport PDF complet du projet est disponible ici :
