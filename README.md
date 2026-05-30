@@ -112,11 +112,11 @@ L’application suit une architecture multicouche :
 
 ## 👨‍🎓 Espace Étudiant
 
-### 🏡 Accueil Étudiant — Tableau de bord avec navigation vers toutes les fonctionnalités
-![Espace Étudiant](images/espace_etudiant.png)
+
+### 🔐 Se Connecter — Authentification par CIN et mot de passe
+![Se Connecter](images/se_connecter.png)
 
 ---
-
 ### 📝 Créer un Compte — Inscription avec informations personnelles et filière
 ![Créer un Compte](images/creer_compte.png)
 
@@ -127,11 +127,11 @@ L’application suit une architecture multicouche :
 
 ---
 
-
-### 🔐 Se Connecter — Authentification par CIN et mot de passe
-![Se Connecter](images/se_connecter.png)
+### 🏡 Accueil Étudiant — Tableau de bord avec navigation vers toutes les fonctionnalités
+![Espace Étudiant](images/espace_etudiant.png)
 
 ---
+
 
 ### 👤 Mon Compte — Consultation et modification du profil étudiant
 ![Mon Compte Étudiant](images/mon_compte.png)
